@@ -1,7 +1,7 @@
-# Library Management System
-A simple flask app to classify Iris flower.
+# Iris Flower Classifier
+A simple flask app to classify Iris flowers.
 
-![Iris Flower Classification - Flask]()
+![Iris Flower Classification - Flask](https://github.com/trtabin/Flask-App/blob/678ad6db3448753f683d4c870fe6aa29347af6d9/static/iris%20flower%20classification.JPG)
 
 
 ## Installation
